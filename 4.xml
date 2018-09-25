@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "4.xls"?>
+<class>
+<employee id = "001">
+<name>M.Dilipan</name>
+<email>dilipanm.2016.it@ritchennai.edu.in</email>
+<score>50</score>
+</employee>
+
+<employee id = "002">
+<name>B.Devaganesh</name>
+<email>devaganeshb.2016.it@ritchennai.edu.in</email>
+<score>78</score>
+</employee>
+
+<employee id = "003">
+<name>Dinesh</name>
+<email>dineshkumarp.2016.it@ritchennai.edu.in</email>
+<score>92</score>
+</employee>
+</class>
+
